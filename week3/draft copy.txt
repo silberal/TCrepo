@@ -1,0 +1,171 @@
+Content Sections:
+Styles of Dance: This section is where all of the different types of dance will be. From there, the user can select one style and it will direct them to a page that goes into detail about
+that type of dance. It will also have links to YouTube videos and include one or two pictures displaying the dance. Each section should end with a fun fact, and the option
+to return to the top of the page. Since there are many types, the page will be sorted by letter with each "A" or "B" (etc.) bolded and large. 
+Basically, each genre will lead a user to a page with a description, picture and video, fun fact, country of origin, and well-known dancers of the category.
+
+Famous Dancers: This section will be in the same style of the Genre section. There will be a picture, background of the dancer, their style of dance, a video (if applicable), country of origin,
+and will tell how the dancer got into the style and for how many years.
+
+Search by Countries: This page will allow the user to view a list of countries. Clicking on the country will bring up a list of genres of dance originted from that country.
+
+About the Author: This section will tell the user a bit about myself and what dancing means to me. I will also list the styles I have danced, for how many years, and 
+include what dancing has taught me. I will also include my email address so people can get in touch with any suggestions and feedback for my site.
+This will be the only personal page of the website.
+
+Genres:
+Acro dance
+Ballet
+Belly dance
+Bernie dance
+Bollywood dance
+B-Boying
+Calypso
+Compas dance
+Contemporary dance
+Disco dance
+Fire dance
+Flamenco
+Greek Classical
+Hip Hop
+Line dance
+Lyrical
+Modern dance
+Pom dance
+cheer dance
+Reggaeton dance
+Salsa
+Spinning, hooping and flow arts
+Tap dance
+Zumba
+Jive
+Lindy Hop
+Blues dance
+Jitterbug
+East Coast Swing
+West Coast Swing
+Charleston
+Cha Cha
+Samba
+Mambo
+Rumba
+Bolero
+Bachata
+Merengue
+Argentine Tango
+Pogo
+Melbourne Shuffle
+Jumpstyle
+Vogue
+Popping
+Krumping
+Jerkin'
+Breaking
+Bounce
+Electric Boogaloo
+Disco
+Swing
+Hula
+Foxtrot
+
+
+Dancers:
+Anna Pavolva
+Mikhail Baryshnikov
+Rudolf Nureyev
+Michael Jackson
+Sammy Davis, Jr.
+Martha Graham
+Fred Astaire
+Gregory Hines
+Gene Kelly
+Patrick Swayze
+Rita Moreno
+Josephine Baker
+Chita Rivera
+Laverne Cox
+James Brown
+Florence Mills
+J-Lo
+Bill "Bojangles" Robinson
+Shirley MacLaine
+Joan Crawford
+Ann-Margret
+Danny Kaye
+Barbara Stanwyck
+Harold and Fayard Nicholas
+Vaslaz Nijinsky
+Gregory Hines
+Fifi Abdou
+
+Countries:
+Afghanistan
+Albania
+Aragon
+Argentina
+Armenia
+Austria
+Azerbaijan
+Basque
+Belarus
+Brittany
+Bulgaria
+Cambodia
+Khmer
+Catalonia
+China
+Colombia
+Cyprus
+Dominican Republic
+England
+Ethiopia
+Finland
+France
+Galicia
+Georgia
+Germany
+Greece
+Crete
+Macedonia
+Hungary
+India
+Indonesia
+Iran
+Ireland
+Israel
+Italy
+Japan
+Korea
+Republic of Macedonia
+Madagascar
+Mexico
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Pakistan
+Romania
+Russia
+Saudi Arabia
+Scandinavia
+Scotland
+Serbia
+Somalia
+South Africa
+Spain
+Turkey
+Adiyaman
+Artvin
+Aydin
+Bingöl
+Burdur
+Edirne
+Igdir
+Izmir
+Kars
+Trabzon
+United States
+Ukraine
+Yemen
+
